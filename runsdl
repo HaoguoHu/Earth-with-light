@@ -1,0 +1,1 @@
+g++ -lGL -lGLU -lglut -lSDL_image -I/usr/include/SDL  myEarthLight.cpp 
